@@ -1,0 +1,14 @@
+a {
+  text-decoration: none;
+}
+.bg-nav {
+  background-color: #337ab7;
+}
+
+.section-title-divider {
+  width: 50px;
+  height: 3px;
+  background: #03c4eb;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
